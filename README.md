@@ -2,4 +2,4 @@
 - 👀 I’m interested in tech and digital applications 
 - 🌱 I’m currently learning C# & .NET while studying to become a Azure Cloud Developer
 - 💞️ I’m looking to collaborate on different coding projects to learn.
-- 📫 You can reach me at Michel.shaban99@gmail.com
+- 📫 You can reach me at Michel@Shabankareh.se
